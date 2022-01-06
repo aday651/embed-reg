@@ -1,5 +1,7 @@
 # README
 
+Code for the paper [Asymptotics of L2 Regularized Network Embeddings](https://arxiv.org/abs/2201.01689).
+
 ## Requirements
 
 Requires Stellargraph 1.2.1, Tensorflow 2.6.0, scikit-learm 0.24.1, tqdm, along
